@@ -10,7 +10,7 @@
   - [Using Linux Commands to Manage File Permissions](https://github.com/melaniedaniel7/Using-Linux-commands-to-manage-file-permissions)
 - <b>Python</b>
   - [Update a File Through a Python Algorithm](https://github.com/melaniedaniel7/Update-a-file-through-a-Python-algorithm)
- - <b>Cybersecurity</b>
+- <b>Cybersecurity</b>
   - [Improve Authentication Authorization and Accounting for a Small Business](https://github.com/melaniedaniel7/Improve-authentication-authorization-and-accounting-for-a-small-business)
   - [Investigate a Suspicious File Hash](https://github.com/melaniedaniel7/Investigate-a-suspicious-file-hash)
   - [Determine Appropriate Data Handling Practices](https://github.com/melaniedaniel7/Determine-appropriate-data-handling-practices)
