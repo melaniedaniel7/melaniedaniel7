@@ -28,9 +28,9 @@
 - [IBM Artificial Intelligence Fundamentals Guided Learning with Capstone](https://github.com/melaniedaniel7/IBM-Artificial-Intelligence-Fundamentals-Guided-Learning-with-Capstone/tree/main)
 
 <h2> 🤳🏻 Connect with me:</h2>
-<img align="left" alt="MelanieDaniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="MelanieDaniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-[linkedin]: https://linkedin.com/in/melanie-daniel-926a27229
+[linkedin](https://linkedin.com/in/melanie-daniel-926a27229)
 
 
 <!--
